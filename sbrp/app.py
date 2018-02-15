@@ -36,7 +36,7 @@ def configure_extensions(app, cli):
     """
     db.init_app(app)
     jwt.init_app(app)
-
+    admin_app.init_app(app)
     if cli is True:
         migrate.init_app(app, db)
 
