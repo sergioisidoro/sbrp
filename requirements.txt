@@ -6,7 +6,7 @@ flask-migrate
 flask-sqlalchemy
 flask-marshmallow
 flask-jwt-extended
-flask-admin
+flask-admin==1.2.0b3
 marshmallow-sqlalchemy
 passlib
 tox
