@@ -1,9 +1,18 @@
+# Flask Boilerplate
+
 flask
 flask-restful
 flask-migrate
 flask-sqlalchemy
 flask-marshmallow
 flask-jwt-extended
+flask-admin
 marshmallow-sqlalchemy
 passlib
 tox
+
+# Messaging and Bots
+wit
+
+# Facebook Messenger lib
+fbmq
